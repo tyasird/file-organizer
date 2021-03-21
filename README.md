@@ -16,7 +16,9 @@ This script is using `exifreader` package to get image metadata.
 
 ## Usage
 
-`photo-organizer` has only two  parameters.
+`python organizer.py --input C:\Users\user\photos --output C:\Users\user\organized`
 
-python organizer.py --input C:\Users\user\photos --output C:\Users\user\organized
-
+<h1 align="center">
+   <img src="screenshot/Screenshot_1.png" />
+   <img src="screenshot/Screenshot_2.png" />
+</h1>
