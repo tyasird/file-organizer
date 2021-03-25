@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="screenshot/logo.png" />
+   <img src="screenshot/logo.png" style="max-width:50%;" />
 </h1>
 
 ## About 
@@ -18,6 +18,9 @@ This script is using `exifreader` package to get image metadata.
 
 `python organizer.py --input C:\Users\user\photos --output C:\Users\user\organized`
 
+<hr/>
+<br><br>
+
 <h1 align="center">
-   <img src="screenshot/1.png" />
+   <img src="screenshot/1.png"  style="max-width:50%;" />
 </h1>
