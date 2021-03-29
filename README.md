@@ -1,6 +1,4 @@
-<h1 align="center">
-   <img src="screenshot/logo.png" style="max-width:50%;" />
-</h1>
+
 
 ## About 
 
