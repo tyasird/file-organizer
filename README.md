@@ -19,6 +19,3 @@ This script is using `exifreader` package to get image metadata.
 <hr/>
 <br><br>
 
-<h1 align="center">
-   <img src="screenshot/1.png"  style="max-width:50%;" />
-</h1>
